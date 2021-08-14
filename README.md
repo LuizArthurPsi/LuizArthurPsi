@@ -1,4 +1,4 @@
-  ## Hii! Eu sou o Luiz Arthur
+  ## Olá! Eu sou o Luiz Arthur
  <div>
   <a href="https://github.com/LuizArthurPsi">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizArthurPsi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
